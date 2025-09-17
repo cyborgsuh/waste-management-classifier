@@ -44,7 +44,7 @@ This project focuses on classifying waste images into **10 categories** using a 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/cyborgsuh/waste-classification.git](https://github.com/cyborgsuh/waste-management-classifier)
+   git clone [[https://github.com/cyborgsuh/waste-classification.git](https://github.com/cyborgsuh/waste-management-classifier)](https://github.com/cyborgsuh/waste-management-classifier)
    cd waste-classification
    ```
 2. Install dependencies:
