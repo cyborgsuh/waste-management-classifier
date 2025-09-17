@@ -70,9 +70,13 @@ This project focuses on classifying waste images into **10 categories** using a 
     ```
 4. Run the Resnet34 Training File 
 
+---
+
 # 📌 License
 
 This project is licensed under the MIT License.
+
+---
 
 # 🙏 Credits
 
